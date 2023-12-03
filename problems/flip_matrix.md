@@ -1,4 +1,4 @@
-# Problem 2
+# Flip Matrix
 
 A two dimensional matrix can be represented in Python row-wise, as a list of lists: each inner list represents one row of the matrix. For instance, the matrix:
 ```

@@ -1,4 +1,4 @@
-# Problem 1
+# Split Sum
 
 Write a Python function `split_sum(l)` that takes a nonempty list of integers and returns a list `[pos, neg]`, where `pos` is the sum of squares all the positive numbers in `l` and `neg` is the sum of cubes of all the negative numbers in `l`.
 

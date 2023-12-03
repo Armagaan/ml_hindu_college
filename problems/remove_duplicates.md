@@ -1,4 +1,5 @@
-# Problem 3
+# Remove Duplicates
+
 Define a Python function `remove_duplicates(l)` that takes a nonempty list of integers `l` and removes all duplicates in `l`, keeping only the last occurrence of each number. For instance:
 
 ```python
