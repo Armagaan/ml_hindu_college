@@ -1,3 +1,5 @@
 # Machine Learning: Hindu College
 
-This repository contains the problems we discussed in class.
+This repository serves as a storage for the problems we explored in class.
+
+![Poster](Poster.png)
