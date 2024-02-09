@@ -6,6 +6,4 @@ To encrypt a message using a Caesar cipher, you first need to choose a shift val
 
 For example, if the shift value is 3, then the plaintext message "hello" would be encrypted as "khoor"; "zoo" would be encrypted as "crr".
 
-To decrypt a message that has been encrypted using a Caesar cipher, you simply need to reverse the encryption process. In other words, you replace each letter in the ciphertext with the letter that is that many positions up the alphabet.
-
-For example, the ciphertext message "khoor" would be decrypted as "hello" if the shift value was 3.
+To decrypt a message that has been encrypted using a Caesar cipher, you simply need to reverse the encryption process by setting shift value to -3.
