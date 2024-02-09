@@ -1,6 +1,6 @@
 """Parse the table into a dictionary."""
 
-PATH = "../data/s05_table.txt"
+PATH = "s05_table.txt"
 dictionary = {}
 
 with open(PATH, "r") as reader:
