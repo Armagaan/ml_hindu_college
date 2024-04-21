@@ -7,3 +7,5 @@
 - [Session 08](https://realpython.com/python3-object-oriented-programming): Inheritance
 - [Session 09](https://realpython.com/python-modules-packages): Modules & Packages
 - [Session 10](https://numpy.org/devdocs/user/quickstart.html): NumPy
+- [Session 11](https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf): NumPy Cheat Sheet
+
