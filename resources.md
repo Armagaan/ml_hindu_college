@@ -6,6 +6,7 @@
 - [Session 07](https://realpython.com/python3-object-oriented-programming): Classes
 - [Session 08](https://realpython.com/python3-object-oriented-programming): Inheritance
 - [Session 09](https://realpython.com/python-modules-packages): Modules & Packages
-- [Session 10](https://numpy.org/devdocs/user/quickstart.html): NumPy
-- [Session 11](https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf): NumPy Cheat Sheet
-
+- NumPy: [Tutorial](https://numpy.org/devdocs/user/quickstart.html), [Cheatsheet](https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf)
+- Pandas: [Tutorial](https://pandas.pydata.org/docs/user_guide/10min.html#min), [Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf), [Playlist](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=aTa8e6_zZV_mB7kx)
+- [Matplotlib](https://matplotlib.org/stable/users/explain/quick_start.html#quick-start)
+- [Seaborn](https://seaborn.pydata.org/examples/index.html)

@@ -4,12 +4,12 @@ from string import ascii_letters
 ACTION = "d" # e or d
 
 if ACTION == "e":
-    file_in = "s05_text.txt"
-    file_out = "s05_cipher.txt"
+    file_in = "../data/s05_text.txt"
+    file_out = "../data/s05_cipher.txt"
     shift = 3
 elif ACTION == "d":
-    file_in = "s05_cipher.txt"
-    file_out = "s05_plain.txt"
+    file_in = "../data/s05_cipher.txt"
+    file_out = "../data/s05_plain.txt"
     shift = -3
 else:
     print("Not a valid option.")
