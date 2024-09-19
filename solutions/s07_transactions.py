@@ -25,5 +25,5 @@ class Account:
 
 jhon = Account(id=0)
 for i in range(1, 10):
-    jhon.update(i)
+    jhon.update(i * 10)
 jhon.print_transactions()

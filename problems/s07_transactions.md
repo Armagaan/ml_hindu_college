@@ -4,17 +4,17 @@ Example:
 ```python
 jhon = Account(id=0)
 for i in range(1, 10):
-    jhon.update(i)
+    jhon.update(i * 10)
 jhon.print_transactions()
 ```
 
 Output:
 ```
------ Ministatement -----
-tid 6 | 1
-tid 7 | 1
-tid 8 | 1
-tid 9 | 1
-tid 10 | 1
-Balance: 55
+--- Transactions ---
+tid 5: 50
+tid 6: 60
+tid 7: 70
+tid 8: 80
+tid 9: 90
+Balance: 450
 ```
