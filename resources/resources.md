@@ -40,3 +40,7 @@
 ## Cross-validation
 - `class_notes/ML03 Generalizing to unseen data.pdf`
 - `cs229-lecture_notes.pdf`: section 9.3
+
+## Logistic Regression
+- `class_notes/ML04 Logistic Regression.pdf`
+- `cs229-lecture_notes.pdf`: chapter 2
