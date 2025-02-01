@@ -44,3 +44,10 @@
 ## Logistic Regression
 - `class_notes/ML04 Logistic Regression.pdf`
 - `cs229-lecture_notes.pdf`: chapter 2
+
+## Gradient Discriminant Analysis
+- `class_notes/ML05 Gradient Discriminant Analysis.pdf`
+- `cs229-lecture_notes.pdf`: chapter 4.1
+- [Machine Learning: What is Discriminant Analysis?](https://youtu.be/eBm8Uo9yhwI)
+- [LDA and QDA decision boundaries](https://scikit-learn.org/1.5/_images/sphx_glr_plot_lda_qda_001.png)
+- LDA vs QDA [Chapter 4, figures 4.5, 4.6 “The Elements of Statistical Learning”, Hastie T., Tibshirani R., Friedman J., Section 4.3, p.106-119, 2008.](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
