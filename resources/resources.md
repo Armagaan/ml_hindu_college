@@ -51,3 +51,10 @@
 - [Machine Learning: What is Discriminant Analysis?](https://youtu.be/eBm8Uo9yhwI)
 - [LDA and QDA decision boundaries](https://scikit-learn.org/1.5/_images/sphx_glr_plot_lda_qda_001.png)
 - LDA vs QDA [Chapter 4, figures 4.5, 4.6 “The Elements of Statistical Learning”, Hastie T., Tibshirani R., Friedman J., Section 4.3, p.106-119, 2008.](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
+
+## Naive Bayes
+- `class_notes/ML06 Naive Bayes.pdf`
+- `cs229-lecture_notes.pdf`: chapter 4.2
+- [Bernoulli NB pseudocode](https://nlp.stanford.edu/IR-book/html/htmledition/the-bernoulli-model-1.html)
+- [Multinomial NB pseudocode](https://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)
+- [Library](https://scikit-learn.org/stable/api/sklearn.naive_bayes.html)
