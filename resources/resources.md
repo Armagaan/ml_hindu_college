@@ -58,3 +58,12 @@
 - [Bernoulli NB pseudocode](https://nlp.stanford.edu/IR-book/html/htmledition/the-bernoulli-model-1.html)
 - [Multinomial NB pseudocode](https://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)
 - [Library](https://scikit-learn.org/stable/api/sklearn.naive_bayes.html)
+
+## Support Vector Machines
+- `class_notes/ML07 SVM.pdf`
+- Pre Lagrangian
+    - Watch up to 7:24 - [Support Vector Machines: All you need to know!](https://youtu.be/ny1iZ5A8ilA?si=Ojn3UTEmc-Jqdv2F)
+    - Watch up to 23:47 - [16. Learning: Support Vector Machines | MITOpenCourseWare](https://youtu.be/_PwhiWxHK8o?si=y4iZ77vXcarF1Zmf)
+- Lagrangian
+    - [Lecture recording](https://csciitd-my.sharepoint.com/:v:/g/personal/csz228001_iitd_ac_in/Eb9fqyoLMb1Pq6CDjoGnSBcBgLNyQE6fsTWu13JABy_eKg?e=ORDc56&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+    - `cs229-lecture_notes.pdf`: Sections 6.5 and 6.6
