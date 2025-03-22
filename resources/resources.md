@@ -67,3 +67,10 @@
 - Lagrangian
     - [Lecture recording](https://csciitd-my.sharepoint.com/:v:/g/personal/csz228001_iitd_ac_in/Eb9fqyoLMb1Pq6CDjoGnSBcBgLNyQE6fsTWu13JABy_eKg?e=ORDc56&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
     - `cs229-lecture_notes.pdf`: Sections 6.5 and 6.6
+- Soft SVM
+    - [Lecture recording](https://csciitd-my.sharepoint.com/:v:/g/personal/csz228001_iitd_ac_in/EZem5sOqvodPvNH1vhmGiYkBmdTdgWGC461KA1VAaN_FWQ?e=2X9jMw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## Decision Trees
+- `class_notes/ML08 Decision trees.pdf`
+- `cs229-decision_trees.pdf`: Section 1
+- [Decision and Classification Trees, Clearly Explained!!!](https://youtu.be/_L39rN6gz7Y?si=Oeo24OmwF94FRuyd)
