@@ -74,3 +74,5 @@
 - `class_notes/ML08 Decision trees.pdf`
 - `cs229-decision_trees.pdf`: Section 1
 - [Decision and Classification Trees, Clearly Explained!!!](https://youtu.be/_L39rN6gz7Y?si=Oeo24OmwF94FRuyd)
+- [Cost complexity pruning](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning)
+- [AdaBoost](https://youtu.be/LsK-xG1cLYA?si=W-nMTowEW98MKgBK)
