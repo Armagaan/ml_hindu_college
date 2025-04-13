@@ -50,7 +50,7 @@
 - `cs229-lecture_notes.pdf`: chapter 4.1
 - [Machine Learning: What is Discriminant Analysis?](https://youtu.be/eBm8Uo9yhwI)
 - [LDA and QDA decision boundaries](https://scikit-learn.org/1.5/_images/sphx_glr_plot_lda_qda_001.png)
-- LDA vs QDA [Chapter 4, figures 4.5, 4.6 “The Elements of Statistical Learning”, Hastie T., Tibshirani R., Friedman J., Section 4.3, p.106-119, 2008.](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
+- LDA vs QDA [Chapter 4, figures 4.5, 4.6 “The Elements of Statistical Learning”](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
 
 ## Naive Bayes
 - `class_notes/ML06 Naive Bayes.pdf`
@@ -76,3 +76,18 @@
 - [Decision and Classification Trees, Clearly Explained!!!](https://youtu.be/_L39rN6gz7Y?si=Oeo24OmwF94FRuyd)
 - [Cost complexity pruning](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning)
 - [AdaBoost](https://youtu.be/LsK-xG1cLYA?si=W-nMTowEW98MKgBK)
+
+## Clustering
+- K-Means
+    - [Video: StatQuest](https://youtu.be/4b5d3muPQmA?si=WXFd4uizWMj2ifv4)
+    - [Video: Serrano.Academy](https://youtu.be/QXOkPvFM6NU?t=163)
+- Heirarchical Agglomerative Clustering
+    - [Video: DataLab](https://youtu.be/8QCBl-xdeZI?si=L7vu6tC7oD0XUQ9i)
+    - [Video: Stanford](https://youtu.be/yktzn-Mr2Nw?si=gzCnl5UBNg5Ar0Ca)
+    - Choosing the right distance metric
+        - [Stack Exchange](https://stats.stackexchange.com/questions/195446/choosing-the-right-linkage-method-for-hierarchical-clustering)
+        - [Stanford](https://nlp.stanford.edu/IR-book/html/htmledition/single-link-and-complete-link-clustering-1.html#fig:rprojectcomplete)
+- DBSCAN
+    - [Research paper](https://www.dbs.ifi.lmu.de/Publikationen/Papers/KDD-96.final.frame.pdf)
+    - [Video: StatQuest](https://youtu.be/RDZUdRSDOok?si=V8S6j8XzPYcvQkaG)
+- [Comparing clustering techniques](https://scikit-learn.org/stable/_images/sphx_glr_plot_cluster_comparison_001.png)
