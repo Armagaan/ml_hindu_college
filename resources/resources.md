@@ -23,7 +23,7 @@
 - Positive semi-definite matrices: `cs229-linear_algebra_review.pdf`: section 3.11
 - Proving a matrix is positive semi-definite: [MIT-RES.18-009](https://youtu.be/ojUQk_GNQbQ)
 - Gradients and Hessians: `cs229-linear_algebra_review.pdf`: sections 4.1, 4.2, 4.3
-- Hessian: [Khan Academy](https://youtu.be/LbBcuZukCAw)
+- Hessian: [Video: Khan Academy](https://youtu.be/LbBcuZukCAw)
 
 ## Generalization
 - `class_notes/ML03 Generalizing to unseen data.pdf`
@@ -48,7 +48,7 @@
 ## Gradient Discriminant Analysis
 - `class_notes/ML05 Gradient Discriminant Analysis.pdf`
 - `cs229-lecture_notes.pdf`: chapter 4.1
-- [Machine Learning: What is Discriminant Analysis?](https://youtu.be/eBm8Uo9yhwI)
+- [Video: Machine Learning: What is Discriminant Analysis?](https://youtu.be/eBm8Uo9yhwI)
 - [LDA and QDA decision boundaries](https://scikit-learn.org/1.5/_images/sphx_glr_plot_lda_qda_001.png)
 - LDA vs QDA [Chapter 4, figures 4.5, 4.6 “The Elements of Statistical Learning”](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
 
@@ -62,8 +62,8 @@
 ## Support Vector Machines
 - `class_notes/ML07 SVM.pdf`
 - Pre Lagrangian
-    - Watch up to 7:24 - [Support Vector Machines: All you need to know!](https://youtu.be/ny1iZ5A8ilA?si=Ojn3UTEmc-Jqdv2F)
-    - Watch up to 23:47 - [16. Learning: Support Vector Machines | MITOpenCourseWare](https://youtu.be/_PwhiWxHK8o?si=y4iZ77vXcarF1Zmf)
+    - Watch up to 7:24 - [Video: Support Vector Machines: All you need to know!](https://youtu.be/ny1iZ5A8ilA?si=Ojn3UTEmc-Jqdv2F)
+    - Watch up to 23:47 - [Video: Support Vector Machines | MITOpenCourseWare](https://youtu.be/_PwhiWxHK8o?si=y4iZ77vXcarF1Zmf)
 - Lagrangian
     - [Lecture recording](https://csciitd-my.sharepoint.com/:v:/g/personal/csz228001_iitd_ac_in/Eb9fqyoLMb1Pq6CDjoGnSBcBgLNyQE6fsTWu13JABy_eKg?e=ORDc56&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
     - `cs229-lecture_notes.pdf`: Sections 6.5 and 6.6
@@ -73,9 +73,9 @@
 ## Decision Trees
 - `class_notes/ML08 Decision trees.pdf`
 - `cs229-decision_trees.pdf`: Section 1
-- [Decision and Classification Trees, Clearly Explained!!!](https://youtu.be/_L39rN6gz7Y?si=Oeo24OmwF94FRuyd)
+- [Video: Decision and Classification Trees, Clearly Explained!!!](https://youtu.be/_L39rN6gz7Y?si=Oeo24OmwF94FRuyd)
 - [Cost complexity pruning](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning)
-- [AdaBoost](https://youtu.be/LsK-xG1cLYA?si=W-nMTowEW98MKgBK)
+- [Video: AdaBoost](https://youtu.be/LsK-xG1cLYA?si=W-nMTowEW98MKgBK)
 
 ## Clustering
 - `class_notes/ML09 Clustering.pdf`
