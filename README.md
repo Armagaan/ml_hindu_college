@@ -1,7 +1,5 @@
 # Machine Learning: Hindu College
 
-This repository serves as a storage for the problems we explored in class.
-
-See `resources/resources.md` for a detailed course-breakup, class notes, and supporting resources.
+See [`resources/resources.md`](resources/resources.md) for a detailed course breakup and supporting resources including practice problems, class notes, and online resources.
 
 <img src="Poster.png" width="500">
