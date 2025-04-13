@@ -78,6 +78,7 @@
 - [AdaBoost](https://youtu.be/LsK-xG1cLYA?si=W-nMTowEW98MKgBK)
 
 ## Clustering
+- `class_notes/ML09 Clustering.pdf`
 - K-Means
     - [Video: StatQuest](https://youtu.be/4b5d3muPQmA?si=WXFd4uizWMj2ifv4)
     - [Video: Serrano.Academy](https://youtu.be/QXOkPvFM6NU?t=163)
