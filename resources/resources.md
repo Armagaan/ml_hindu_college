@@ -92,3 +92,6 @@
     - [Research paper](https://www.dbs.ifi.lmu.de/Publikationen/Papers/KDD-96.final.frame.pdf)
     - [Video: StatQuest](https://youtu.be/RDZUdRSDOok?si=V8S6j8XzPYcvQkaG)
 - [Comparing clustering techniques](https://scikit-learn.org/stable/_images/sphx_glr_plot_cluster_comparison_001.png)
+
+## Neural Networks
+- See `neural_networks_roadmap.md`
