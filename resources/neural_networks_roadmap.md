@@ -51,7 +51,7 @@
 
 **Suggested resources**
 - [Lecture: ML Lecture 35 - Cornell CS4780](https://youtu.be/kPXxbmBsFxs?si=RZw7u--3RO7OLO8E)
-- [(Optional) Blog/Video: Neural Networks - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
+- [(Optional) Blog/Video: Neural Networks - 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks)
 - [(Optional) Book: "Neural Networks and Deep Learning" – Michael Nielsen (online book)](http://neuralnetworksanddeeplearning.com/)
 
 # 3 Training a Neural Network
@@ -71,6 +71,7 @@
 
 **Suggested resources:**
 - [Blog: A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+- [Practice: Derivative of the Softmax Function and the Categorical Cross-Entropy Loss](https://medium.com/data-science/derivative-of-the-softmax-function-and-the-categorical-cross-entropy-loss-ffceefc081d1)
 
 ## 3.1* Computational Graphs (Optional)
 - Libraries like PyTorch and TensorFlow create a "computational graph" during forward pass.
@@ -84,6 +85,7 @@
 **Suggested resources:**
 - [YouTube: Momentun - Learn with Jay](https://youtu.be/Vce8w1sy0e8?si=6mjlo0-MYLKIhQfy)
 - [YouTube: RMSprop - Learn with Jay](https://youtu.be/ajI_HTyaCu8?si=rSK4DmUNLxS2Zw8s)
+- [YouTube: Adam - Learn with Jay](https://youtu.be/tuU59-G1PgU?si=g0fRAt-GSG5QGtQf)
 
 
 ## 3.3 Training Stabilizers & Regularization
@@ -134,5 +136,5 @@ PyTorch (TensorFlow? Hard pass!)
 **Suggested resources:**
 - [YouTube: PyTorch Beginner Series](https://youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&si=gt2XRjlRtpafFWs0)
 - [Official Documentation: Learn the Basics](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html)
-- [Book: Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://amzn.in/d/2a7nwoj)
+- [Book: Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://g.co/kgs/bEqgfT9)
     - Written by PyTorch’s creator and key contributors
