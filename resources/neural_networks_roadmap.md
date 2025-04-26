@@ -51,7 +51,7 @@
 
 **Suggested resources**
 - [Lecture: ML Lecture 35 - Cornell CS4780](https://youtu.be/kPXxbmBsFxs?si=RZw7u--3RO7OLO8E)
-- [(Optional) Blog/Video: Neural Networks - 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks)
+- [(Intuition) Blog/Video: Neural Networks - 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks)
 - [(Optional) Book: "Neural Networks and Deep Learning" – Michael Nielsen (online book)](http://neuralnetworksanddeeplearning.com/)
 
 # 3 Training a Neural Network
